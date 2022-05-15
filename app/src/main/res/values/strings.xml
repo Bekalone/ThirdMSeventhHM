@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ThirdMSixthHM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="background">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>Math</item>
+        <item>History</item>
+        <item>Biology</item>
+    </string-array>
+</resources>
